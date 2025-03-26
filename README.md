@@ -59,5 +59,5 @@ Tech Stack: Python, OpenCV, Deep Learning
 ## 📫 Let's Connect!  
 If you’d like to discuss tech, AI, or collaborate on projects, feel free to reach out.  
 
-📩 Email: [kamaleshkamalesh3964@gmail.com](mailto:kamaleshkamalesh3964@gmail.com)  
+📩 Email: [kamaleshkamalesh3964@gmail.com](mailto:kamaleshvelu01@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/kamalesh-v-](https://www.linkedin.com/in/kamalesh-v-/)
