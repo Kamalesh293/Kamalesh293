@@ -1,63 +1,66 @@
+<h1 align="center">Hi, I'm Kamalesh! 👋</h1>  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="500" />
+</p>  
+
+---
+
+## 🌐 Socials  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/your_instagram)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kamalesh-v-/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/YOUR-GITHUB-USERNAME)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kamaleshkamalesh3964@gmail.com)  
+
+---
+
+## 🛠️ Tech Stack  
 <div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-# 👋 Hello Developers!
-
-<div align="center">
-  <img src="YourImageHere.jpg" alt="Sidhu's Profile Picture" width="250" style="border-radius: 50%" />
-</div>
-
-Welcome to my GitHub profile! I'm Sidhu, a tech enthusiast and problem solver with a passion for innovation and learning. I thrive on tackling challenges with creative solutions and exploring new realms of technology.
-
----
-
-🔧 **My Expertise**
-- **Programming Languages**: Python, JavaScript, TypeScript
-- **Frameworks & Libraries**: React.js, Node.js, Django
-- **Tech Interests**: Full-Stack Development, Machine Learning, Generative AI
-- **Databases**: MongoDB, MySQL, PostgreSQL
-
----
-
-## 🌐 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-link)
-[![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=black)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/your-username)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/your-profile-link)
-
----
-
-## 💻 **Tech Stack**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React.js](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-🌟 **What You’ll Find Here**
-- **Projects**: Coding experiments, full-stack web applications, and more.
-- **Innovations**: Exploring the frontiers of AI and modern development tools.
-- **Journey**: Sharing milestones and knowledge throughout my tech path.
-
----
-
-## 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=false" width="50%" />
 </div>
 
 ---
 
-## 🔢 **Visitor Count**
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+## 📊 GitHub Stats  
+<div align="center">
 
-<blockquote style="font-style: italic; font-size: 1.4em; margin: 20px 0; color: #555;">
-    © Sidhu
-</blockquote>
+![Kamalesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
 
-</div>
+</div>  
+
+---
+
+## 🚀 Featured Projects  
+### 🔹 SmartCarval
+> Predicting second-hand car values using ML models.  
+Tech Stack: Python, Scikit-learn, Pandas  
+
+### 🔹 Camera Security Project
+> Detects unauthorized access to mobile cameras.  
+Tech Stack: Python, OpenCV, Deep Learning  
+
+### 🔹 DotSync Studio
+> A collaborative coding platform under OneDot Communications Ltd.  
+Tech Stack: Node.js, React, Firebase  
+
+---
+
+## 📫 Let's Connect!  
+If you’d like to discuss tech, AI, or collaborate on projects, feel free to reach out.  
+
+📩 Email: [kamaleshkamalesh3964@gmail.com](mailto:kamaleshkamalesh3964@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/kamalesh-v-](https://www.linkedin.com/in/kamalesh-v-/)
