@@ -73,5 +73,5 @@
 
 ## 🚀 Let's Build Something Awesome Together!  
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="150" />
 </p>
