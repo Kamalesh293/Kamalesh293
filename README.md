@@ -7,10 +7,10 @@
 ---
 
 ## 🌐 Socials  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/your_instagram)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_sidhu_.05._)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kamalesh-v-/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/YOUR-GITHUB-USERNAME)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kamaleshkamalesh3964@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Kamalesh293)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kamaleshvelu01@gmail.com)  
 
 ---
 
@@ -52,10 +52,7 @@ Tech Stack: Python, Scikit-learn, Pandas
 ### 🔹 Camera Security Project
 > Detects unauthorized access to mobile cameras.  
 Tech Stack: Python, OpenCV, Deep Learning  
-
-### 🔹 DotSync Studio
-> A collaborative coding platform under OneDot Communications Ltd.  
-Tech Stack: Node.js, React, Firebase  
+ 
 
 ---
 
